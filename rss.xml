@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[Managed Healthcare Services]]></title>
         <description><![CDATA[Managed Healthcare Services]]></description>
-        <link>https://thegrid.ai/managed-healthcare-services/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 16:39:58 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/managed-healthcare-services/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Underwater Dogs: photographs of dogs underwater by Seth Casteel]]></title>
-            <description><![CDATA[<article><h1>Underwater Dogs: photographs of dogs underwater by Seth Casteel</h1><p>Underwater Dogs - a book containing over 80 unique photographs of dogs underwater snapped by animal photographer Seth Casteel is published on 25th October 2012 by Headline Books, priced &pound;14.99.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c80db14606103fbacd2b64d680024ffe80aa6f49.jpg"></article>]]></description>
-            <link>http://www.telegraph.co.uk/news/picturegalleries/howaboutthat/9630536/Underwater-Dogs-photographs-of-dogs-underwater-by-Seth-Casteel.html</link>
-            <guid isPermaLink="false">87f44aa8-16b3-4919-a627-6f66c6699312</guid>
-            <pubDate>Tue, 24 May 2016 16:39:56 GMT</pubDate>
-        </item>
+        <lastBuildDate>Tue, 24 May 2016 16:39:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
             <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
